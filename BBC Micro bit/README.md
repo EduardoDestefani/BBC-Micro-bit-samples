@@ -1,15 +1,14 @@
-- - # BBC Micro:bit MicroPython practices
+# BBC Micro:bit MicroPython practices
+Public repository for practices and postings of micropython codes for BBC Micro: bit boards.
 
-    Public repository for practices and postings of micropython codes for BBC Micro: bit boards.
+## Codes
+Summary of codes :
 
-    ## Codes
-    Summary of codes :
+#### 1. Game codes
+    
+   1.1. [**Le-ght**](https://github.com/EduardoDestefani/BBC-Micro-bit-samples/blob/master/BBC%20Micro%20bit/Le-ght.py) (a left and right game) ; it is a game based on micropython that consists of reflexes. 
 
-    #### 1. Game codes
-
-    1.1. [**Le-ght**](https://github.com/EduardoDestefani/BBC-Micro-bit-samples/blob/master/BBC%20Micro%20bit/Le-ght.py) (a left and right game) ; it is a game based on micropython that consists of reflexes. 
-
-    - **Operation** :
+   - **Operation** :
 
       - The player must choose the difficulty (level 1 to 4, are alternated by pressing button B);
       
@@ -27,9 +26,9 @@
       
         
     
-    1.2. [**D-Bit**](https://github.com/EduardoDestefani/BBC-Micro-bit-samples/blob/master/BBC%20Micro%20bit/D-Bit.py) (a RPG dice for BBC Micro:bit) ; it is a micropython software that simulates RPG dice.
+   1.2. [**D-Bit**](https://github.com/EduardoDestefani/BBC-Micro-bit-samples/blob/master/BBC%20Micro%20bit/D-Bit.py) (a RPG dice for BBC Micro:bit) ; it is a micropython software that simulates RPG dice.
     
-    - **Operation** :
+   - **Operation** :
     
       - The player must select the type of dice, being them ; D2, D4, D6, D8, D10, D20 and D100;
       
